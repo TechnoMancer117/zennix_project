@@ -9,3 +9,5 @@ class UsersConfig(AppConfig):
  # Logo após, comenta a alteração do arquivo com o
 
  #salvar comando...(git status)
+
+ # Batata frita
